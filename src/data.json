@@ -1,0 +1,649 @@
+{
+  "TeamID": 15,
+  "Offense": [
+    {
+      "DepthChartID": 4933,
+      "TeamID": 15,
+      "PlayerID": 19815,
+      "Name": "Christian Kirk",
+      "PositionCategory": "OFF",
+      "Position": "KR",
+      "DepthOrder": 3,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4934,
+      "TeamID": 15,
+      "PlayerID": 23255,
+      "Name": "Snoop Conner",
+      "PositionCategory": "OFF",
+      "Position": "KR",
+      "DepthOrder": 4,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4936,
+      "TeamID": 15,
+      "PlayerID": 19044,
+      "Name": "Jamal Agnew",
+      "PositionCategory": "OFF",
+      "Position": "PR",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4937,
+      "TeamID": 15,
+      "PlayerID": 19815,
+      "Name": "Christian Kirk",
+      "PositionCategory": "OFF",
+      "Position": "PR",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4931,
+      "TeamID": 15,
+      "PlayerID": 19044,
+      "Name": "Jamal Agnew",
+      "PositionCategory": "OFF",
+      "Position": "KR",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4786,
+      "TeamID": 15,
+      "PlayerID": 22490,
+      "Name": "Trevor Lawrence",
+      "PositionCategory": "OFF",
+      "Position": "QB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4787,
+      "TeamID": 15,
+      "PlayerID": 18973,
+      "Name": "C.J. Beathard",
+      "PositionCategory": "OFF",
+      "Position": "QB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4791,
+      "TeamID": 15,
+      "PlayerID": 21970,
+      "Name": "James Robinson",
+      "PositionCategory": "OFF",
+      "Position": "RB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4792,
+      "TeamID": 15,
+      "PlayerID": 21696,
+      "Name": "Travis Etienne Jr.",
+      "PositionCategory": "OFF",
+      "Position": "RB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4793,
+      "TeamID": 15,
+      "PlayerID": 23255,
+      "Name": "Snoop Conner",
+      "PositionCategory": "OFF",
+      "Position": "RB",
+      "DepthOrder": 3,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4794,
+      "TeamID": 15,
+      "PlayerID": 21765,
+      "Name": "JaMycal Hasty",
+      "PositionCategory": "OFF",
+      "Position": "RB",
+      "DepthOrder": 4,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4801,
+      "TeamID": 15,
+      "PlayerID": 13870,
+      "Name": "Marvin Jones Jr.",
+      "PositionCategory": "OFF",
+      "Position": "LWR",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4802,
+      "TeamID": 15,
+      "PlayerID": 23996,
+      "Name": "Kendric Pryor",
+      "PositionCategory": "OFF",
+      "Position": "LWR",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4806,
+      "TeamID": 15,
+      "PlayerID": 19815,
+      "Name": "Christian Kirk",
+      "PositionCategory": "OFF",
+      "Position": "RWR",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4807,
+      "TeamID": 15,
+      "PlayerID": 19044,
+      "Name": "Jamal Agnew",
+      "PositionCategory": "OFF",
+      "Position": "RWR",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4811,
+      "TeamID": 15,
+      "PlayerID": 18926,
+      "Name": "Zay Jones",
+      "PositionCategory": "OFF",
+      "Position": "SWR",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4812,
+      "TeamID": 15,
+      "PlayerID": 22892,
+      "Name": "Tim Jones",
+      "PositionCategory": "OFF",
+      "Position": "SWR",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4816,
+      "TeamID": 15,
+      "PlayerID": 18912,
+      "Name": "Evan Engram",
+      "PositionCategory": "OFF",
+      "Position": "TE",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4817,
+      "TeamID": 15,
+      "PlayerID": 19659,
+      "Name": "Dan Arnold",
+      "PositionCategory": "OFF",
+      "Position": "TE",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4818,
+      "TeamID": 15,
+      "PlayerID": 17762,
+      "Name": "Chris Manhertz",
+      "PositionCategory": "OFF",
+      "Position": "TE",
+      "DepthOrder": 3,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4819,
+      "TeamID": 15,
+      "PlayerID": 21795,
+      "Name": "Luke Farrell",
+      "PositionCategory": "OFF",
+      "Position": "TE",
+      "DepthOrder": 4,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4821,
+      "TeamID": 15,
+      "PlayerID": 18910,
+      "Name": "Cam Robinson",
+      "PositionCategory": "OFF",
+      "Position": "LT",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4822,
+      "TeamID": 15,
+      "PlayerID": 22900,
+      "Name": "Walker Little",
+      "PositionCategory": "OFF",
+      "Position": "LT",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4826,
+      "TeamID": 15,
+      "PlayerID": 22012,
+      "Name": "Ben Bartch",
+      "PositionCategory": "OFF",
+      "Position": "LG",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4827,
+      "TeamID": 15,
+      "PlayerID": 22768,
+      "Name": "Cole Van Lanen",
+      "PositionCategory": "OFF",
+      "Position": "LG",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4831,
+      "TeamID": 15,
+      "PlayerID": 23454,
+      "Name": "Luke Fortner",
+      "PositionCategory": "OFF",
+      "Position": "C",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4832,
+      "TeamID": 15,
+      "PlayerID": 16264,
+      "Name": "Tyler Shatley",
+      "PositionCategory": "OFF",
+      "Position": "C",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4836,
+      "TeamID": 15,
+      "PlayerID": 16766,
+      "Name": "Brandon Scherff",
+      "PositionCategory": "OFF",
+      "Position": "RG",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4837,
+      "TeamID": 15,
+      "PlayerID": 22768,
+      "Name": "Cole Van Lanen",
+      "PositionCategory": "OFF",
+      "Position": "RG",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4841,
+      "TeamID": 15,
+      "PlayerID": 20960,
+      "Name": "Jawaan Taylor",
+      "PositionCategory": "OFF",
+      "Position": "RT",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4842,
+      "TeamID": 15,
+      "PlayerID": 22900,
+      "Name": "Walker Little",
+      "PositionCategory": "OFF",
+      "Position": "RT",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    }
+  ],
+  "Defense": [
+    {
+      "DepthChartID": 4846,
+      "TeamID": 15,
+      "PlayerID": 18292,
+      "Name": "Roy Robertson-Harris",
+      "PositionCategory": "DEF",
+      "Position": "LDE",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4847,
+      "TeamID": 15,
+      "PlayerID": 18959,
+      "Name": "Dawuane Smoot",
+      "PositionCategory": "DEF",
+      "Position": "LDE",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4856,
+      "TeamID": 15,
+      "PlayerID": 21869,
+      "Name": "DaVon Hamilton",
+      "PositionCategory": "DEF",
+      "Position": "NT",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4857,
+      "TeamID": 15,
+      "PlayerID": 18959,
+      "Name": "Dawuane Smoot",
+      "PositionCategory": "DEF",
+      "Position": "NT",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4866,
+      "TeamID": 15,
+      "PlayerID": 19993,
+      "Name": "Foley Fatukasi",
+      "PositionCategory": "DEF",
+      "Position": "RDE",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4867,
+      "TeamID": 15,
+      "PlayerID": 19896,
+      "Name": "Arden Key",
+      "PositionCategory": "DEF",
+      "Position": "RDE",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4868,
+      "TeamID": 15,
+      "PlayerID": 17993,
+      "Name": "Adam Gotsis",
+      "PositionCategory": "DEF",
+      "Position": "RDE",
+      "DepthOrder": 3,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4871,
+      "TeamID": 15,
+      "PlayerID": 20737,
+      "Name": "Josh Allen",
+      "PositionCategory": "DEF",
+      "Position": "LOLB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4872,
+      "TeamID": 15,
+      "PlayerID": 23846,
+      "Name": "De'Shaan Dixon",
+      "PositionCategory": "DEF",
+      "Position": "LOLB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4876,
+      "TeamID": 15,
+      "PlayerID": 23437,
+      "Name": "Devin Lloyd",
+      "PositionCategory": "DEF",
+      "Position": "LILB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4877,
+      "TeamID": 15,
+      "PlayerID": 21974,
+      "Name": "Shaquille Quarterman",
+      "PositionCategory": "DEF",
+      "Position": "LILB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4886,
+      "TeamID": 15,
+      "PlayerID": 20007,
+      "Name": "Foyesade Oluokun",
+      "PositionCategory": "DEF",
+      "Position": "RILB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4887,
+      "TeamID": 15,
+      "PlayerID": 23438,
+      "Name": "Chad Muma",
+      "PositionCategory": "DEF",
+      "Position": "RILB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4891,
+      "TeamID": 15,
+      "PlayerID": 23316,
+      "Name": "Travon Walker",
+      "PositionCategory": "DEF",
+      "Position": "ROLB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4892,
+      "TeamID": 15,
+      "PlayerID": 21888,
+      "Name": "K'Lavon Chaisson",
+      "PositionCategory": "DEF",
+      "Position": "ROLB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4893,
+      "TeamID": 15,
+      "PlayerID": 22942,
+      "Name": "Caleb Johnson",
+      "PositionCategory": "DEF",
+      "Position": "ROLB",
+      "DepthOrder": 3,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4896,
+      "TeamID": 15,
+      "PlayerID": 22731,
+      "Name": "Tyson Campbell",
+      "PositionCategory": "DEF",
+      "Position": "LCB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4897,
+      "TeamID": 15,
+      "PlayerID": 23548,
+      "Name": "Montaric Brown",
+      "PositionCategory": "DEF",
+      "Position": "LCB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4901,
+      "TeamID": 15,
+      "PlayerID": 18986,
+      "Name": "Shaquill Griffin",
+      "PositionCategory": "DEF",
+      "Position": "RCB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4902,
+      "TeamID": 15,
+      "PlayerID": 22141,
+      "Name": "Chris Claybrooks",
+      "PositionCategory": "DEF",
+      "Position": "RCB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4906,
+      "TeamID": 15,
+      "PlayerID": 20570,
+      "Name": "Darious Williams",
+      "PositionCategory": "DEF",
+      "Position": "NB",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4907,
+      "TeamID": 15,
+      "PlayerID": 20460,
+      "Name": "Tre Herndon",
+      "PositionCategory": "DEF",
+      "Position": "NB",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4911,
+      "TeamID": 15,
+      "PlayerID": 22740,
+      "Name": "Andre Cisco",
+      "PositionCategory": "DEF",
+      "Position": "FS",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4912,
+      "TeamID": 15,
+      "PlayerID": 21928,
+      "Name": "Daniel Thomas",
+      "PositionCategory": "DEF",
+      "Position": "FS",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4916,
+      "TeamID": 15,
+      "PlayerID": 19026,
+      "Name": "Rayshawn Jenkins",
+      "PositionCategory": "DEF",
+      "Position": "SS",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4917,
+      "TeamID": 15,
+      "PlayerID": 21281,
+      "Name": "Andrew Wingard",
+      "PositionCategory": "DEF",
+      "Position": "SS",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4918,
+      "TeamID": 15,
+      "PlayerID": 22819,
+      "Name": "Tyree Gillespie",
+      "PositionCategory": "DEF",
+      "Position": "SS",
+      "DepthOrder": 3,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4932,
+      "TeamID": 15,
+      "PlayerID": 22141,
+      "Name": "Chris Claybrooks",
+      "PositionCategory": "DEF",
+      "Position": "KR",
+      "DepthOrder": 2,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4938,
+      "TeamID": 15,
+      "PlayerID": 22141,
+      "Name": "Chris Claybrooks",
+      "PositionCategory": "DEF",
+      "Position": "PR",
+      "DepthOrder": 3,
+      "Updated": "2022-09-14T00:18:02"
+    }
+  ],
+  "SpecialTeams": [
+    {
+      "DepthChartID": 4921,
+      "TeamID": 15,
+      "PlayerID": 22863,
+      "Name": "Riley Patterson",
+      "PositionCategory": "ST",
+      "Position": "K",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4926,
+      "TeamID": 15,
+      "PlayerID": 20063,
+      "Name": "Logan Cooke",
+      "PositionCategory": "ST",
+      "Position": "P",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4941,
+      "TeamID": 15,
+      "PlayerID": 22291,
+      "Name": "Ross Matiscik",
+      "PositionCategory": "ST",
+      "Position": "LS",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    },
+    {
+      "DepthChartID": 4946,
+      "TeamID": 15,
+      "PlayerID": 22863,
+      "Name": "Riley Patterson",
+      "PositionCategory": "ST",
+      "Position": "KOS",
+      "DepthOrder": 1,
+      "Updated": "2022-09-14T00:18:02"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+.card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
+  background-color: rgb(38, 170, 187);
+  border: 1px solid black;
+}
+
+.logo {
+  max-height: 100px;
+}
+
+.player-card h1 {
+  font-size: 24px;
+}

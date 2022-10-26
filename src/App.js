@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import CardsContainer from "./CardsContainer/CardsContainer";
+import jagsData from "./data.json";
+import SearchBar from "./SearchBar/SearchBar";
+import { useState } from "react";
 
-function App() {
+const App = () => {
+  const [input, setInput] = useState("");
+
+  const setNewQuery = (e) => {
+    console.log(e.target.value);
+    setInput(e.target.value);
+  };
+  const filteredData = jagsData.Defense.filter((player) => {
+    return player.Name.toLocaleLowerCase().includes(input.toLocaleLowerCase());
+  });
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1> Jacksonville Jaguars </h1>
+      <SearchBar onChangeQuery={setNewQuery} />
+      <CardsContainer jagsData={filteredData} />
     </div>
   );
-}
+};
 
 export default App;
